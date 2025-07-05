@@ -1,23 +1,3 @@
-# 🗑️ Waste Management Classification System
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-orange.svg)](https://tensorflow.org/)
-[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Accuracy-98%25-success"/>
-  <img src="https://img.shields.io/badge/Status-Active-success"/>
-</div>
-
----
-
-A deep learning-based web application that classifies different types of waste materials using computer vision. The system helps in proper waste segregation by identifying whether an item belongs to categories like cardboard, glass, metal, paper, plastic, or trash.
-
-<p align="center">
-  <img src="https://github.com/tanishq-ctrl/waste-classification/blob/main/static/WASTE-ezgif.com-video-to-gif-converter.gif" alt="Waste Management demo">
-</p>
-
 <div align="center">
   <h3>🎯 Categories</h3>
   <code>Cardboard</code> • <code>Glass</code> • <code>Metal</code> • <code>Paper</code> • <code>Plastic</code> • <code>Trash</code>
@@ -185,11 +165,6 @@ The model was trained using transfer learning on MobileNetV2:
   <img src="https://img.shields.io/badge/Environmental-3BB273?style=flat-square"/>
   <img src="https://img.shields.io/badge/Sustainability-00A896?style=flat-square"/>
 </div>
-
-## 🤝 Contributing
-
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE)
